@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to my project");
+            Console.WriteLine("edit 2");
         }
     }
 }
